@@ -46,4 +46,11 @@ I used the following method to build and compile the code, from the Udacity work
 • ./path_planning to run the code
 To see the results on the simulator, enable GPU mode and Click on the "Simulator" button in the bottom of the Udacity workspace, which will open a new virtual desktop. You should see a "Simulator" icon on the virtual desktop. Double-click the "Simulator" icon in that desktop to start the simulator with the code running on the terminal.
 
+Below screenshots show the car driving on the simulator:
+![image](https://user-images.githubusercontent.com/80404634/125834328-04e079e4-dc7a-40cf-8c34-dc80fd7d8003.png)
+![image](https://user-images.githubusercontent.com/80404634/125834359-5247805d-cf6e-4ce9-8971-887b5cedd85c.png)
+
+
 Possible events: Yes. I did see collisions/ events eventually. I guess there needs to be additional cost factors or improvements to the state machine or increased safety window limits, but this was after the requirements for the project were met.
+![image](https://user-images.githubusercontent.com/80404634/125834241-0d9695fe-5664-449c-aa68-1c975c24c786.png)
+
